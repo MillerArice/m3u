@@ -1,0 +1,160 @@
+#EXTM3U
+
+# ----------------------
+# 少儿频道
+# ----------------------
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+https://iptv.catvod.com/live.php?id=CCTV-14
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://27.41.245.32:801/hls/14/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://119.123.176.238:8086/hls/40/index.m3u8
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://14.21.90.68:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wkl8ta&tk=inWducl7RAaR
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://rihou.cc:555/tv/[AtI]广东少儿
+
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://156.238.248.80/2099.php?id=172
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://vapi.91kds.cc/live1/btv1.m3u8?id=btvkk&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://114.242.62.109:888/hls/26/index.m3u8
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://btjg.net:809/hls/49/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://59.173.123.31:8989/rtp/239.69.1.248:11130
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://btjg.net:809/hls/70/index.m3u8
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://vapi.91kds.cc/live2/jsqx.m3u8?id=ymkt&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://156.238.248.80/2099.php?id=250
+
+#EXTINF:-1 group-title="少儿频道",嘉佳卡通720p
+https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
+
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://156.238.248.80/2099.php?id=220
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 group-title="少儿频道",河北少儿科教
+http://vapi.91kds.cc/live1/hetv.m3u8?id=hese&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",河北少儿科教
+http://1.94.31.214/php/hebei.php?id=sekj
+
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://156.238.248.80/2099.php?id=304
+
+#EXTINF:-1 group-title="少儿频道",海南少儿
+http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+#EXTINF:-1 group-title="少儿频道",海南少儿
+http://47.108.20.161:8866/hainan/hainan.php?id=sepd
+
+#EXTINF:-1 group-title="少儿频道",重庆少儿
+http://47.108.205.48/鸿雁重庆a.php?id=cqse
+
+#EXTINF:-1 group-title="少儿频道",甘肃少儿
+https://liveout.gstv.com.cn/skt649/ys1xzs.m3u8
+
+#EXTINF:-1 group-title="少儿频道",黑龙江少儿
+http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="少儿频道",江西少儿
+http://113.195.172.192:808/hls/11/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",龙华卡通720p
+http://cdn8.veryfast.filegear-sg.me/163189/lhkt
+
+#EXTINF:-1 group-title="少儿频道",东森幼幼台
+https://live.catvod.com/live.php?id=yoyo_twn
+#EXTM3U
+
+# ----------------------
+# 少儿频道（补充版）
+# ----------------------
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+https://iptv.catvod.com/live.php?id=CCTV-14
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://27.41.245.32:801/hls/14/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://156.238.248.80/2099.php?id=220
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 group-title="少儿频道",广东少儿频道
+http://119.123.176.238:8086/hls/40/index.m3u8
+#EXTINF:-1 group-title="少儿频道",广东少儿频道
+http://14.21.90.68:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="少儿频道",广东少儿频道
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wkl8ta&tk=inWducl7RAaR
+
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://156.238.248.80/2099.php?id=172
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://vapi.91kds.cc/live1/btv1.m3u8?id=btvkk&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://114.242.62.109:888/hls/26/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://59.173.123.31:8989/rtp/239.69.1.248:11130
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://btjg.net:809/hls/70/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://vapi.91kds.cc/live2/jsqx.m3u8?id=ymkt&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://156.238.248.80/2099.php?id=250
+
+#EXTINF:-1 group-title="少儿频道",嘉佳卡通
+https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
+
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://156.238.248.80/2099.php?id=304
+
+#EXTINF:-1 group-title="少儿频道",海南少儿
+http://47.108.20.161:8866/hainan/hainan.php?id=sepd
+
+#EXTINF:-1 group-title="少儿频道",重庆少儿
+http://47.108.205.48/鸿雁重庆a.php?id=cqse
+
+#EXTINF:-1 group-title="少儿频道",黑龙江少儿
+http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="少儿频道",江西少儿
+http://113.195.172.192:808/hls/11/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",河北少儿
+http://vapi.91kds.cc/live1/hetv.m3u8?id=hese&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+
+#EXTINF:-1 group-title="少儿频道",宁夏少儿
+http://publiciptv.com/countries/cn/categories/kids/Ningxia%20Children%20Channel
+
+#EXTINF:-1 group-title="少儿频道",青少旅游频道
+http://publiciptv.com/countries/cn/categories/kids/QTV-6
+
+#EXTINF:-1 group-title="少儿频道",大连少儿频道
+http://publiciptv.com/countries/cn/categories/kids/DLTV-6%20Children%20Channel
