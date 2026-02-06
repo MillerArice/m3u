@@ -1,0 +1,1023 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://kouki.pro:8888/udp/239.49.8.129:6000
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://5636tv.jiaheysyy.top/dl.php?id=3d8e093d
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://iptv.4666888.xyz/iptv2A.php?id=8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://27.41.245.32:801/hls/2/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://kouki.pro:8888/udp/239.49.8.50:9802http://27.41.245.32:801/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://59.173.123.31:8989/rtp/239.69.1.102:10250
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://kouki.pro:8888/udp/239.49.8.74:8000
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+https://iptv.catvod.com/live.php?id=CCTV-3
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://kouki.pro:8888/udp/239.49.8.51:9806
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际美洲
+http://dsl1.oni2023.uk:8888/udp/239.253.43.121:5146
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际美洲
+http://baota.guangyuan.site:8188/udp/239.253.43.121:5146
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际欧洲
+http://dsl1.oni2023.uk:8888/udp/239.253.43.120:5146
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://kouki.pro:8888/udp/239.49.8.75:8000
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://27.41.245.32:801/hls/5/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://nxb.yxhxy.top:7088/udp/239.49.8.75:8000
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://156.238.248.80/2099.php?id=941
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+https://iptv.catvod.com/live.php?id=CCTV-5
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://5636tv.jiaheysyy.top/dl.php?id=52f0fc31
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://156.238.248.80/2099.php?id=942
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+https://iptv.catvod.com/live.php?id=CCTV-5plus
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://119.123.176.238:8086/hls/252/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://btjg.net:809/hls/17/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6电影1080p
+http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
+#EXTINF:-1 group-title="CCTV",CCTV6电影1080p
+http://kouki.pro:8888/udp/239.49.8.76:8000
+#EXTINF:-1 group-title="CCTV",CCTV6电影1080p
+http://27.41.245.32:801/hls/6/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://27.41.245.32:801/hls/7/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+https://iptv.catvod.com/live.php?id=CCTV-7
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://119.123.176.238:8086/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://tvlist.top/jd/index.php?id=cctv8&qt=118.212.78.251:8014
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://27.41.245.32:801/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+https://iptv.catvod.com/live.php?id=CCTV-8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://27.41.245.32:801/hls/9/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://yp.qqqtv.top/1/api.php?id=CCTV-9HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://kouki.pro:8888/udp/239.49.8.53:9814
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+https://iptv.catvod.com/live.php?id=CCTV-9
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://27.41.245.32:801/hls/10/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://kouki.pro:8888/udp/239.49.8.54:9818
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+https://iptv.catvod.com/live.php?id=CCTV-10
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://5636tv.jiaheysyy.top/dl.php?id=2538c1b4
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+https://iptv.catvod.com/live.php?id=CCTV-11
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://222.214.208.34:59901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://111.23.208.105:9908/tsfile/live/0011_2.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://183.7.172.159:8888/hls/27/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+https://iptv.catvod.com/live.php?id=CCTV-12
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://119.123.176.238:8086/hls/13/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://23.237.228.134/live3/CCTV13.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+https://iptv.catvod.com/live.php?id=CCTV-13
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://59.173.123.31:8989/rtp/239.254.96.161:9040
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+https://iptv.catvod.com/live.php?id=CCTV-14
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+http://27.41.245.32:801/hls/14/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://119.123.176.238:8086/hls/16/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://222.214.208.34:59901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://111.23.208.105:9908/tsfile/live/0015_2.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://btjg.net:809/hls/15/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克
+http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克
+http://119.123.176.238:8086/hls/17/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克
+https://iptv.catvod.com/live.php?id=CCTV-16
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克4K
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VmBEMy&tk=inWducl7RAaR
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+https://iptv.catvod.com/live.php?id=CCTV-17
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+http://111.23.208.105:9908/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+http://w.yao87.com:4022/rtp/239.76.254.49:9000
+#EXTINF:-1 group-title="CCTV",CCTV世界地理
+http://hmfs.f3322.net:3388/hls/28/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV世界地理
+http://www.qfly9236.cn:8888/rtp/239.253.43.120:5146
+
+# ----------------------
+# 地方卫视频道
+# ----------------------
+#EXTINF:-1 group-title="地方卫视",北京卫视
+http://iptv.4666888.xyz/iptv2A.php?id=101
+#EXTINF:-1 group-title="地方卫视",北京卫视
+http://27.41.245.32:801/hls/btv/index.m3u8
+#EXTINF:-1 group-title="地方卫视",北京卫视
+https://iptv.catvod.com/live.php?id=BTV-1
+
+#EXTINF:-1 group-title="地方卫视",天津卫视
+http://iptv.4666888.xyz/iptv2A.php?id=102
+#EXTINF:-1 group-title="地方卫视",天津卫视
+http://27.41.245.32:801/hls/tjtv/index.m3u8
+#EXTINF:-1 group-title="地方卫视",天津卫视
+https://iptv.catvod.com/live.php?id=TianjinTV
+
+#EXTINF:-1 group-title="地方卫视",河北卫视
+http://iptv.4666888.xyz/iptv2A.php?id=103
+#EXTINF:-1 group-title="地方卫视",河北卫视
+http://27.41.245.32:801/hls/hebei/index.m3u8
+#EXTINF:-1 group-title="地方卫视",河北卫视
+https://iptv.catvod.com/live.php?id=HebeiTV
+
+#EXTINF:-1 group-title="地方卫视",山西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=104
+#EXTINF:-1 group-title="地方卫视",山西卫视
+http://27.41.245.32:801/hls/shanxi/index.m3u8
+#EXTINF:-1 group-title="地方卫视",山西卫视
+https://iptv.catvod.com/live.php?id=ShanxiTV
+
+#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+http://iptv.4666888.xyz/iptv2A.php?id=105
+#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+http://27.41.245.32:801/hls/nmg/index.m3u8
+#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+https://iptv.catvod.com/live.php?id=NMGTV
+
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
+http://iptv.4666888.xyz/iptv2A.php?id=106
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
+http://27.41.245.32:801/hls/liaoning/index.m3u8
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
+https://iptv.catvod.com/live.php?id=LiaoningTV
+
+#EXTINF:-1 group-title="地方卫视",吉林卫视
+http://iptv.4666888.xyz/iptv2A.php?id=107
+#EXTINF:-1 group-title="地方卫视",吉林卫视
+http://27.41.245.32:801/hls/jilin/index.m3u8
+#EXTINF:-1 group-title="地方卫视",吉林卫视
+https://iptv.catvod.com/live.php?id=JilinTV
+
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=108
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+http://27.41.245.32:801/hls/hlj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+https://iptv.catvod.com/live.php?id=HLJTV
+
+#EXTINF:-1 group-title="地方卫视",上海东方卫视
+http://iptv.4666888.xyz/iptv2A.php?id=109
+#EXTINF:-1 group-title="地方卫视",上海东方卫视
+http://27.41.245.32:801/hls/dragon/index.m3u8
+#EXTINF:-1 group-title="地方卫视",上海东方卫视
+https://iptv.catvod.com/live.php?id=DragonTV
+
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=110
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+http://27.41.245.32:801/hls/js/index.m3u8
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+https://iptv.catvod.com/live.php?id=JSTV
+
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=111
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+http://27.41.245.32:801/hls/zj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+https://iptv.catvod.com/live.php?id=ZJTV
+
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+http://iptv.4666888.xyz/iptv2A.php?id=112
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+http://27.41.245.32:801/hls/ah/index.m3u8
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+https://iptv.catvod.com/live.php?id=AHTV
+
+#EXTINF:-1 group-title="地方卫视",福建东南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=113
+#EXTINF:-1 group-title="地方卫视",福建东南卫视
+http://27.41.245.32:801/hls/fj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",福建东南卫视
+https://iptv.catvod.com/live.php?id=FJTV
+
+#EXTINF:-1 group-title="地方卫视",江西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=114
+#EXTINF:-1 group-title="地方卫视",江西卫视
+http://27.41.245.32:801/hls/jx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",江西卫视
+https://iptv.catvod.com/live.php?id=JXTV
+
+#EXTINF:-1 group-title="地方卫视",山东卫视
+http://iptv.4666888.xyz/iptv2A.php?id=115
+#EXTINF:-1 group-title="地方卫视",山东卫视
+http://27.41.245.32:801/hls/sd/index.m3u8
+#EXTINF:-1 group-title="地方卫视",山东卫视
+https://iptv.catvod.com/live.php?id=SDTV
+
+#EXTINF:-1 group-title="地方卫视",河南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=116
+#EXTINF:-1 group-title="地方卫视",河南卫视
+http://27.41.245.32:801/hls/henan/index.m3u8
+#EXTINF:-1 group-title="地方卫视",河南卫视
+https://iptv.catvod.com/live.php?id=HNTV
+
+#EXTINF:-1 group-title="地方卫视",湖北卫视
+http://iptv.4666888.xyz/iptv2A.php?id=117
+#EXTINF:-1 group-title="地方卫视",湖北卫视
+http://27.41.245.32:801/hls/hb/index.m3u8
+#EXTINF:-1 group-title="地方卫视",湖北卫视
+https://iptv.catvod.com/live.php?id=HubeiTV
+
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=118
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+http://27.41.245.32:801/hls/hn/index.m3u8
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+https://iptv.catvod.com/live.php?id=HunanTV
+
+#EXTINF:-1 group-title="地方卫视",广东卫视
+http://iptv.4666888.xyz/iptv2A.php?id=119
+#EXTINF:-1 group-title="地方卫视",广东卫视
+http://27.41.245.32:801/hls/gd/index.m3u8
+#EXTINF:-1 group-title="地方卫视",广东卫视
+https://iptv.catvod.com/live.php?id=GDTV
+
+#EXTINF:-1 group-title="地方卫视",广西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=120
+#EXTINF:-1 group-title="地方卫视",广西卫视
+http://27.41.245.32:801/hls/gx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",广西卫视
+https://iptv.catvod.com/live.php?id=GXTV
+
+#EXTINF:-1 group-title="地方卫视",海南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=121
+#EXTINF:-1 group-title="地方卫视",海南卫视
+http://27.41.245.32:801/hls/hi/index.m3u8
+#EXTINF:-1 group-title="地方卫视",海南卫视
+https://iptv.catvod.com/live.php?id=HainanTV
+
+#EXTINF:-1 group-title="地方卫视",重庆卫视
+http://iptv.4666888.xyz/iptv2A.php?id=122
+#EXTINF:-1 group-title="地方卫视",重庆卫视
+http://27.41.245.32:801/hls/cq/index.m3u8
+#EXTINF:-1 group-title="地方卫视",重庆卫视
+https://iptv.catvod.com/live.php?id=ChongqingTV
+
+#EXTINF:-1 group-title="地方卫视",四川卫视
+http://iptv.4666888.xyz/iptv2A.php?id=123
+#EXTINF:-1 group-title="地方卫视",四川卫视
+http://27.41.245.32:801/hls/sc/index.m3u8
+#EXTINF:-1 group-title="地方卫视",四川卫视
+https://iptv.catvod.com/live.php?id=SichuanTV
+
+#EXTINF:-1 group-title="地方卫视",贵州卫视
+http://iptv.4666888.xyz/iptv2A.php?id=124
+#EXTINF:-1 group-title="地方卫视",贵州卫视
+http://27.41.245.32:801/hls/gz/index.m3u8
+#EXTINF:-1 group-title="地方卫视",贵州卫视
+https://iptv.catvod.com/live.php?id=GuizhouTV
+
+#EXTINF:-1 group-title="地方卫视",云南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=125
+#EXTINF:-1 group-title="地方卫视",云南卫视
+http://27.41.245.32:801/hls/yn/index.m3u8
+#EXTINF:-1 group-title="地方卫视",云南卫视
+https://iptv.catvod.com/live.php?id=YunnanTV
+
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=126
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+http://27.41.245.32:801/hls/xz/index.m3u8
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+https://iptv.catvod.com/live.php?id=XizangTV
+
+#EXTINF:-1 group-title="地方卫视",陕西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=127
+#EXTINF:-1 group-title="地方卫视",陕西卫视
+http://27.41.245.32:801/hls/sx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",陕西卫视
+https://iptv.catvod.com/live.php?id=ShanxiTV
+
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
+http://iptv.4666888.xyz/iptv2A.php?id=128
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
+http://27.41.245.32:801/hls/gs/index.m3u8
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
+https://iptv.catvod.com/live.php?id=GansuTV
+
+#EXTINF:-1 group-title="地方卫视",青海卫视
+http://iptv.4666888.xyz/iptv2A.php?id=129
+#EXTINF:-1 group-title="地方卫视",青海卫视
+http://27.41.245.32:801/hls/qh/index.m3u8
+#EXTINF:-1 group-title="地方卫视",青海卫视
+https://iptv.catvod.com/live.php?id=QinghaiTV
+
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=130
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+http://27.41.245.32:801/hls/nx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+https://iptv.catvod.com/live.php?id=NingxiaTV
+
+#EXTINF:-1 group-title="地方卫视",新疆卫视
+http://iptv.4666888.xyz/iptv2A.php?id=131
+#EXTINF:-1 group-title="地方卫视",新疆卫视
+http://27.41.245.32:801/hls/xj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",新疆卫视
+https://iptv.catvod.com/live.php?id=XinjiangTV
+
+#EXTINF:-1 group-title="地方卫视",西安电视台
+http://iptv.4666888.xyz/iptv2A.php?id=132
+#EXTINF:-1 group-title="地方卫视",西安电视台
+http://27.41.245.32:801/hls/xa/index.m3u8
+#EXTINF:-1 group-title="地方卫视",西安电视台
+https://iptv.catvod.com/live.php?id=XATV
+
+#EXTINF:-1 group-title="电影频道",澳门莲花
+https://cdn6.101.qzz.io/163189/amlh
+#EXTINF:-1 group-title="电影频道",Now星影台(粤)
+https://t.freetv.fun/live/nowxing-ying.m3u8
+#EXTINF:-1 group-title="电影频道",Now星影台(粤)
+https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
+#EXTINF:-1 group-title="电影频道",Now星影台(粤)
+http://74.91.26.218:82/live/nowxy.m3u8
+#EXTINF:-1 group-title="电影频道",Now爆谷台
+http://74.91.26.218:82/live/nowbg.m3u8
+#EXTINF:-1 group-title="电影频道",1905电影网
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+#EXTINF:-1 group-title="电影频道",1905电影网
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 group-title="电影频道",1905电影网
+http://php.jdshipin.com/1905.php
+#EXTINF:-1 group-title="电影频道",1905电影网
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JKPWmH&tk=inWducl7RAaR
+#EXTINF:-1 group-title="电影频道",1905电影网怀旧
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+#EXTINF:-1 group-title="电影频道",1905电影网怀旧
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8ofuVF&tk=inWducl7RAaR
+#EXTINF:-1 group-title="电影频道",CCTV6电影
+http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
+#EXTINF:-1 group-title="电影频道",CCTV6电影
+http://kouki.pro:8888/udp/239.49.8.76:8000
+#EXTINF:-1 group-title="电影频道",CCTV6电影
+http://27.41.245.32:801/hls/6/index.m3u8
+#EXTINF:-1 group-title="电影频道",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="电影频道",CHC家庭电影
+http://27.41.245.32:801/hls/905/index.m3u8
+#EXTINF:-1 group-title="电影频道",CHC家庭电影
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="电影频道",PopC电影
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 group-title="电影频道",PopC电影
+http://rihou.cc:555/tv/[Bx]pₒₚc电影
+#EXTINF:-1 group-title="电影频道",PopC电影
+P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
+#EXTINF:-1 group-title="电影频道",CATCHPLAY电影
+https://live.catvod.com/live.php?id=catchplay_twn
+#EXTINF:-1 group-title="电影频道",AMC电影台
+https://live.catvod.com/live.php?id=starmoviesgold_twn
+#EXTINF:-1 group-title="电影频道",淘电影
+http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="电影频道",好莱坞电影
+http://free.cnlive.club/channel/n2db95de5.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="电影频道",凤凰电影
+http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 group-title="电影频道",凤凰电影
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="电影频道",凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 group-title="电影频道",美亚电影台HD
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 group-title="电影频道",美亚电影台HD
+P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
+#EXTINF:-1 group-title="电影频道",美亚电影台(粤)
+http://74.91.26.218:82/live/mydy.m3u8
+#EXTINF:-1 group-title="电影频道",美亚电影台(国)
+http://74.91.26.218:82/live/mydy.m3u8
+#EXTINF:-1 group-title="电影频道",美亚电影台(国)
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="电影频道",美亚电影台(国)
+https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="电影频道",美亚电影台(国)
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="电影频道",美亚电影台(国)
+http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+#EXTINF:-1 group-title="电影频道",东森电影HD
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 group-title="电影频道",东森电影HD
+https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2fa48ab623ba6c6327404a1375c9&ts=1768660887
+#EXTINF:-1 group-title="电影频道",东森电影HD
+http://23.128.116.71:5589/live.php?id=ettvmovie&h=23.128.116.71&p=22364&token=1768656088.a085acf2e7d7a672b2c2523583227ea4b3c1f3c158a64d90de3020fc0ef508b7
+#EXTINF:-1 group-title="电影频道",华数电影
+http://hmfs.f3322.net:3388/hls/40/index.m3u8
+#EXTINF:-1 group-title="电影频道",靖天電影台
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 group-title="电影频道",靖天電影台
+P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+#EXTINF:-1 group-title="电影频道",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 group-title="电影频道",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 group-title="电影频道",天映频道
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="电影频道",天映频道
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+#EXTINF:-1 group-title="电影频道",天映频道
+http://74.91.26.218:82/live/typd.m3u8
+#EXTINF:-1 group-title="电影频道",天映经典
+http://74.91.26.218:82/live/tyjd.m3u8
+#EXTINF:-1 group-title="电影频道",龙华电影
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 group-title="电影频道",龙华电影
+https://t.freetv.fun/live/long-hua-dian-ying.m3u8
+#EXTINF:-1 group-title="电影频道",龙华电影
+https://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 group-title="电影频道",龙华电影
+https://live.catvod.com/iptv.php?id=lhdy01
+#EXTINF:-1 group-title="电影频道",龙华电影(梯子)
+http://cdn8.veryfast.filegear-sg.me/163189/lhdy
+#EXTINF:-1 group-title="电影频道",龙华洋片
+https://live.catvod.com/iptv.php?id=lhyp01
+#EXTINF:-1 group-title="电影频道",龙华洋片
+http://156.238.248.80/2099.php?id=117
+#EXTINF:-1 group-title="电影频道",龙祥时代
+http://23.128.116.71:5589/live.php?id=lungxiangtime_twn&h=23.128.116.71&p=22364&token=1768656088.9568be950d58b8a02f43f238bdd447f3d6d89ae9a3538b950d0a6322a0ec4230
+#EXTINF:-1 group-title="电影频道",緯來電影HD
+http://23.128.116.71:5589/live.php?id=videolandmovie&h=23.128.116.71&p=22364&token=1768656088.7cfab29e31a4d92960308bc41781955067656d64c99658a37feeaa185443399a
+
+# ----------------------
+# 少儿频道
+# ----------------------
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+https://iptv.catvod.com/live.php?id=CCTV-14
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://27.41.245.32:801/hls/14/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://119.123.176.238:8086/hls/40/index.m3u8
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://14.21.90.68:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wkl8ta&tk=inWducl7RAaR
+#EXTINF:-1 group-title="少儿频道",广东少儿1080p
+http://rihou.cc:555/tv/[AtI]广东少儿
+
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://156.238.248.80/2099.php?id=172
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://vapi.91kds.cc/live1/btv1.m3u8?id=btvkk&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://114.242.62.109:888/hls/26/index.m3u8
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://btjg.net:809/hls/49/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://59.173.123.31:8989/rtp/239.69.1.248:11130
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://btjg.net:809/hls/70/index.m3u8
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://vapi.91kds.cc/live2/jsqx.m3u8?id=ymkt&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://156.238.248.80/2099.php?id=250
+
+#EXTINF:-1 group-title="少儿频道",嘉佳卡通720p
+https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
+
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://156.238.248.80/2099.php?id=220
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 group-title="少儿频道",河北少儿科教
+http://vapi.91kds.cc/live1/hetv.m3u8?id=hese&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",河北少儿科教
+http://1.94.31.214/php/hebei.php?id=sekj
+
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://156.238.248.80/2099.php?id=304
+
+#EXTINF:-1 group-title="少儿频道",海南少儿
+http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+#EXTINF:-1 group-title="少儿频道",海南少儿
+http://47.108.20.161:8866/hainan/hainan.php?id=sepd
+
+#EXTINF:-1 group-title="少儿频道",重庆少儿
+http://47.108.205.48/鸿雁重庆a.php?id=cqse
+
+#EXTINF:-1 group-title="少儿频道",甘肃少儿
+https://liveout.gstv.com.cn/skt649/ys1xzs.m3u8
+
+#EXTINF:-1 group-title="少儿频道",黑龙江少儿
+http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="少儿频道",江西少儿
+http://113.195.172.192:808/hls/11/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",龙华卡通720p
+http://cdn8.veryfast.filegear-sg.me/163189/lhkt
+
+#EXTINF:-1 group-title="少儿频道",东森幼幼台
+https://live.catvod.com/live.php?id=yoyo_twn
+#EXTM3U
+
+# ----------------------
+# 少儿频道（补充版）
+# ----------------------
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+https://iptv.catvod.com/live.php?id=CCTV-14
+#EXTINF:-1 group-title="少儿频道",CCTV14少儿
+http://27.41.245.32:801/hls/14/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://156.238.248.80/2099.php?id=220
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 group-title="少儿频道",广东少儿频道
+http://119.123.176.238:8086/hls/40/index.m3u8
+#EXTINF:-1 group-title="少儿频道",广东少儿频道
+http://14.21.90.68:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="少儿频道",广东少儿频道
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wkl8ta&tk=inWducl7RAaR
+
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://156.238.248.80/2099.php?id=172
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://vapi.91kds.cc/live1/btv1.m3u8?id=btvkk&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",北京卡酷少儿
+http://114.242.62.109:888/hls/26/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://59.173.123.31:8989/rtp/239.69.1.248:11130
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://btjg.net:809/hls/70/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://vapi.91kds.cc/live2/jsqx.m3u8?id=ymkt&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://156.238.248.80/2099.php?id=250
+
+#EXTINF:-1 group-title="少儿频道",嘉佳卡通
+https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
+
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://156.238.248.80/2099.php?id=304
+
+#EXTINF:-1 group-title="少儿频道",海南少儿
+http://47.108.20.161:8866/hainan/hainan.php?id=sepd
+
+#EXTINF:-1 group-title="少儿频道",重庆少儿
+http://47.108.205.48/鸿雁重庆a.php?id=cqse
+
+#EXTINF:-1 group-title="少儿频道",黑龙江少儿
+http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="少儿频道",江西少儿
+http://113.195.172.192:808/hls/11/index.m3u8
+
+#EXTINF:-1 group-title="少儿频道",河北少儿
+http://vapi.91kds.cc/live1/hetv.m3u8?id=hese&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+
+#EXTINF:-1 group-title="少儿频道",宁夏少儿
+http://publiciptv.com/countries/cn/categories/kids/Ningxia%20Children%20Channel
+
+#EXTINF:-1 group-title="少儿频道",青少旅游频道
+http://publiciptv.com/countries/cn/categories/kids/QTV-6
+
+#EXTINF:-1 group-title="少儿频道",大连少儿频道
+http://publiciptv.com/countries/cn/categories/kids/DLTV-6%20Children%20Channel
+
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://rihou.cc:555/tv/[Pd]无线翡翠
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://rihou.cc:555/tv/[PL]无线翡4k
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://www.wmviv.com/iptv/bc2t.php?id=fct4k
+
+#EXTINF:-1 group-title="港台频道",明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 group-title="港台频道",明珠台
+http://rihou.cc:555/tv/[Pd]无线明珠
+#EXTINF:-1 group-title="港台频道",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="港台频道",明珠台
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+#EXTINF:-1 group-title="港台频道",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+#EXTINF:-1 group-title="港台频道",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+
+#EXTINF:-1 group-title="港台频道",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 group-title="港台频道",TVBJ1
+https://6.cdn.loc.cc/163189.php?id=j1
+#EXTINF:-1 group-title="港台频道",TVBJ1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="港台频道",TVBJ1
+https://6.cdn.loc.cc/163189.php?id=j1
+
+#EXTINF:-1 group-title="港台频道",TVB plus
+http://74.91.26.218:82/live/j2.m3u8
+#EXTINF:-1 group-title="港台频道",TVB plus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="港台频道",TVB plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="港台频道",TVB plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="港台频道",TVB plus
+https://cdn6.163189.xyz/163189/tvbp
+
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://cdn10.163189.xyz/163189/xinghe
+#EXTINF:-1 group-title="港台频道",TVB星河
+https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://rihou.cc:555/tv/[Pd]无线星河
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://rihou.cc:555/tv/[PL]无线星河
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://r.jdshipin.com/Voac4
+
+#EXTINF:-1 group-title="港台频道",TVB无线千禧
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 group-title="港台频道",TVB无线千禧
+http://rihou.cc:555/tv/[Bx]无线千禧
+
+#EXTINF:-1 group-title="港台频道",TVB千禧经典
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="港台频道",TVB千禧经典
+http://74.91.26.218:82/live/tvbjd.m3u8
+
+#EXTINF:-1 group-title="港台频道",TVB功夫
+http://rihou.cc:555/tv/[Pd]无线功夫
+#EXTINF:-1 group-title="港台频道",TVB功夫
+https://cdn6.101.qzz.io/163189/yzwx
+#EXTINF:-1 group-title="港台频道",TVB功夫
+P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+
+#EXTINF:-1 group-title="港台频道",TVB娱乐新闻台
+https://cdn6.101.qzz.io/163189/ylxw
+#EXTINF:-1 group-title="港台频道",TVB娱乐新闻台
+http://rihou.cc:555/tv/[PL]无线娱乐
+
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://stream1.freetv.fun/45181db55db70a3fc349faf2ef2b901599a9cbc7106f2674134cac2db74b2f81.m3u8
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://cdn.163189.xyz/163189/viu
+
+#EXTINF:-1 group-title="港台频道",ViuTV6
+https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
+
+#EXTINF:-1 group-title="港台频道",RHK31
+https://live.catvod.com/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港台频道",RHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港台频道",RHK31
+http://rihou.cc:555/tv/[PL]RTHK-31
+#EXTINF:-1 group-title="港台频道",RHK31
+http://cdn.163189.xyz/163189/rthk31
+
+#EXTINF:-1 group-title="港台频道",RHK32
+https://live.catvod.com/iptv.php?id=rthk32
+#EXTINF:-1 group-title="港台频道",RHK32
+http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 group-title="港台频道",RHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="港台频道",RHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 group-title="港台频道",凤凰中文
+https://cdn6.101.qzz.io/163189/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://rihou.cc:555/tv/[Bx]凤凰中文
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://rihou.cc:555/tv/[PL]凤凰中文
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://rihou.cc:555/tv/[PL]凤凰资讯
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+http://rihou.cc:555/tv/[Bx]凤凰香港
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+http://rihou.cc:555/tv/[PL]凤凰香港
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+http://r.jdshipin.com/yDoTN
+
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://rihou.cc:555/tv/[Mt]Now新闻
+#EXTINF:-1 group-title="港台频道",Now新闻台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://rihou.cc:555/tv/[Cx]Now新闻
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 group-title="港台频道",Now财经
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 group-title="港台频道",Now财经
+http://rihou.cc:555/tv/[Mt]Now财经
+#EXTINF:-1 group-title="港台频道",Now直播
+https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
+#EXTINF:-1 group-title="港台频道",Now直播
+https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
+#EXTINF:-1 group-title="港台频道",Now直播
+http://rihou.cc:555/tv/[Mt]Now直播
+#EXTINF:-1 group-title="港台频道",Now体育
+http://rihou.cc:555/tv/[Mt]Now体育
+
+#EXTINF:-1 group-title="港台频道",镜新聞
+https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+#EXTINF:-1 group-title="港台频道",镜新聞
+http://rihou.cc:555/tv/[Hk]闽镜新闻
+
+#EXTINF:-1 group-title="港台频道",中天新聞
+https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+#EXTINF:-1 group-title="港台频道",中天新聞
+http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="港台频道",中天新聞
+http://free.cnlive.club/channel/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
+#EXTINF:-1 group-title="港台频道",中天新聞
+http://rihou.cc:555/tv/[Hk]%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
+
+#EXTINF:-1 group-title="港台频道",CTS華視新聞资讯
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="港台频道",CTS華視新聞资讯
+http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="港台频道",中視新聞
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="港台频道",中視新聞
+http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 group-title="港台频道",中視新聞
+http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
+
+#EXTINF:-1 group-title="港台频道",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="港台频道",台视新闻
+https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
+
+#EXTINF:-1 group-title="港台频道",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+
+#EXTINF:-1 group-title="港台频道",東森新聞台
+http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+#EXTINF:-1 group-title="港台频道",東森新聞台
+http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="港台频道",東森新聞台
+https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
+
+#EXTINF:-1 group-title="港台频道",民視新聞台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="港台频道",民視新聞台
+https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
+#EXTINF:-1 group-title="港台频道",民視新聞台
+http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
+
+#EXTINF:-1 group-title="港台频道",年代新聞
+http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
+
+#EXTINF:-1 group-title="港台频道",非凡新聞
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 group-title="港台频道",非凡新聞
+rtmp://f13h.mine.nu/sat/tv581
+
+#EXTINF:-1 group-title="港台频道",寰宇新聞台
+http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="港台频道",寰宇新聞台
+https://stream1.freetv.fun/e7076724f6f4ec080e7f1a9c5cac04dd03cdf2a7684892d4415c329245441c95.m3u8
+#EXTINF:-1 group-title="港台频道",寰宇新聞台
+https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
+#EXTINF:-1 group-title="港台频道",寰宇新聞台湾台
+https://stream1.freetv.fun/6f86b785e4d3724074dfdd10aa123fa6d5e9fcff5baf7c90567bc77446f85c6f.m3u8
+
+#EXTINF:-1 group-title="港台频道",TVBS新聞台
+http://iptv.4666888.xyz/iptv2A.php?id=43
+
+#EXTINF:-1 group-title="港台频道",三立台湾台
+http://23.128.116.71:5589/live.php?id=sanlitaiwan&h=23.128.116.71&p=22364&token=1768656088.86691cca94504da575d8df777cf38454e46d310d063477dfb6dc26c93a6a248f
+#EXTINF:-1 group-title="港台频道",三立综合台
+http://23.128.116.71:5589/live.php?id=sanlizhonghe&h=23.128.116.71&p=22364&token=1768656088.492115de19636f0cd4cf03421832bbed5f62da67f42781bc53be1a0faaf20858
+#EXTINF:-1 group-title="港台频道",三立都会台
+http://23.128.116.71:5589/live.php?id=sanlidouhui_twn&h=23.128.116.71&p=22364&token=1768656088.71792c6eb5cad5cf0b18fea078d4b239afcebabadce35bd9315d491180a5e404
+#EXTINF:-1 group-title="港台频道",三立戏剧台
+http://23.128.116.71:5589/live.php?id=sanlixiju_twn&h=23.128.116.71&p=22364&token=1768656088.9fbb23a20a7c3a7360e8bad0e362e55915cf9ff0026941769f8a92f662dfcf70
+
+#EXTINF:-1 group-title="港台频道",TVBS精采台
+http://iptv.4666888.xyz/iptv2A.php?id=47
+
+#EXTINF:-1 group-title="港台频道",好消息
+http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
+#EXTINF:-1 group-title="港台频道",好消息2台
+http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="港台频道",緯來精彩
+https://stream1.freetv.fun/409fbf8e0ec33500b4d76956cca00af9fddacac6dd2f8822f464b089fb583a6b.m3u8
+#EXTINF:-1 group-title="港台频道",緯來綜合
+https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
+
+#EXTINF:-1 group-title="港台频道",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 group-title="港台频道",龙华经典
+http://rihou.cc:555/tv/[Pd]龙华经典
+#EXTINF:-1 group-title="港台频道",龙华偶像
+https://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 group-title="港台频道",龙华偶像
+http://rihou.cc:555/tv/[Pd]龙华偶像
+#EXTINF:-1 group-title="港台频道",龙华偶像
+http://23.128.116.71:5589/live.php?id=lunghuaidol_twn&h=23.128.116.71&p=22364&token=1768656088.0a9d5f021d7e75b02ff4fc1935240e3d1b68715c25ab4bae884fd671c63d90ac
+#EXTINF:-1 group-title="港台频道",龙华日韩
+http://rihou.cc:555/tv/[Pd]龙华日韩
+#EXTINF:-1 group-title="港台频道",龙华日韩
+https://t.freetv.fun/live/long-hua-ri-han.m3u8
+#EXTINF:-1 group-title="港台频道",龙华日韩
+https://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+http://156.238.248.80/2099.php?id=122
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+http://rihou.cc:555/tv/[Pd]龙华戏剧
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+https://cdn8.163189.xyz/163189/lhxj
+
+#EXTINF:-1 group-title="港台频道",天映经典
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港台频道",天映经典
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+
+#EXTINF:-1 group-title="港台频道",CHU综合
+http://rihou.cc:555/tv/[Pd]CHU综合
+#EXTINF:-1 group-title="港台频道",CH5综合
+http://rihou.cc:555/tv/[Pd]CH5综合
+#EXTINF:-1 group-title="港台频道",CH8综合
+http://rihou.cc:555/tv/[Pd]CH8综合
+
+#EXTINF:-1 group-title="港台频道",八度空间
+http://rihou.cc:555/tv/[Pd]八度空间
+#EXTINF:-1 group-title="港台频道",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1 group-title="港台频道",八度空间
+https://cdn6.101.qzz.io/163189/8tv
+
+#EXTINF:-1 group-title="港台频道",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+
+#EXTINF:-1 group-title="港台频道",环球电视台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
+#EXTINF:-1 group-title="港台频道",澳视澳门
+https://cdn6.101.qzz.io/163189/asam
+#EXTINF:-1 group-title="港台频道",澳视澳门
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 group-title="港台频道",澳视澳门
+http://r.jdshipin.com/n2YZI
+#EXTINF:-1 group-title="港台频道",澳视Macau
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="港台频道",澳视Macau
+https://cdn6.101.qzz.io/163189/as
+#EXTINF:-1 group-title="港台频道",澳视Macau
+http://r.jdshipin.com/QFhCq
+
+#EXTINF:-1 group-title="港台频道",澳门综艺
+https://cdn6.101.qzz.io/163189/amzy
+
+#EXTINF:-1 group-title="港台频道",澳门体育
+http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+#EXTINF:-1 group-title="港台频道",澳门体育
+https://cdn6.101.qzz.io/163189/amty
+
+#EXTINF:-1 group-title="港台频道",星空卫视
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
