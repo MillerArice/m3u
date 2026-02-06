@@ -1,0 +1,427 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://kouki.pro:8888/udp/239.49.8.129:6000
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://5636tv.jiaheysyy.top/dl.php?id=3d8e093d
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://iptv.4666888.xyz/iptv2A.php?id=8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://27.41.245.32:801/hls/2/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://kouki.pro:8888/udp/239.49.8.50:9802http://27.41.245.32:801/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://59.173.123.31:8989/rtp/239.69.1.102:10250
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://kouki.pro:8888/udp/239.49.8.74:8000
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+https://iptv.catvod.com/live.php?id=CCTV-3
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://kouki.pro:8888/udp/239.49.8.51:9806
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际美洲
+http://dsl1.oni2023.uk:8888/udp/239.253.43.121:5146
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际美洲
+http://baota.guangyuan.site:8188/udp/239.253.43.121:5146
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际欧洲
+http://dsl1.oni2023.uk:8888/udp/239.253.43.120:5146
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://kouki.pro:8888/udp/239.49.8.75:8000
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://27.41.245.32:801/hls/5/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://nxb.yxhxy.top:7088/udp/239.49.8.75:8000
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://156.238.248.80/2099.php?id=941
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+https://iptv.catvod.com/live.php?id=CCTV-5
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://5636tv.jiaheysyy.top/dl.php?id=52f0fc31
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://156.238.248.80/2099.php?id=942
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+https://iptv.catvod.com/live.php?id=CCTV-5plus
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://119.123.176.238:8086/hls/252/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://btjg.net:809/hls/17/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6电影1080p
+http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
+#EXTINF:-1 group-title="CCTV",CCTV6电影1080p
+http://kouki.pro:8888/udp/239.49.8.76:8000
+#EXTINF:-1 group-title="CCTV",CCTV6电影1080p
+http://27.41.245.32:801/hls/6/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://27.41.245.32:801/hls/7/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+https://iptv.catvod.com/live.php?id=CCTV-7
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://119.123.176.238:8086/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://tvlist.top/jd/index.php?id=cctv8&qt=118.212.78.251:8014
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://27.41.245.32:801/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+https://iptv.catvod.com/live.php?id=CCTV-8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://27.41.245.32:801/hls/9/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://yp.qqqtv.top/1/api.php?id=CCTV-9HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://kouki.pro:8888/udp/239.49.8.53:9814
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+https://iptv.catvod.com/live.php?id=CCTV-9
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://27.41.245.32:801/hls/10/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://kouki.pro:8888/udp/239.49.8.54:9818
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+https://iptv.catvod.com/live.php?id=CCTV-10
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://5636tv.jiaheysyy.top/dl.php?id=2538c1b4
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+https://iptv.catvod.com/live.php?id=CCTV-11
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://222.214.208.34:59901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://111.23.208.105:9908/tsfile/live/0011_2.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11科戏曲
+http://183.7.172.159:8888/hls/27/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+https://iptv.catvod.com/live.php?id=CCTV-12
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://119.123.176.238:8086/hls/13/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://23.237.228.134/live3/CCTV13.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+https://iptv.catvod.com/live.php?id=CCTV-13
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://59.173.123.31:8989/rtp/239.254.96.161:9040
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+https://iptv.catvod.com/live.php?id=CCTV-14
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+http://27.41.245.32:801/hls/14/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://119.123.176.238:8086/hls/16/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://222.214.208.34:59901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://111.23.208.105:9908/tsfile/live/0015_2.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://btjg.net:809/hls/15/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克
+http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克
+http://119.123.176.238:8086/hls/17/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克
+https://iptv.catvod.com/live.php?id=CCTV-16
+#EXTINF:-1 group-title="CCTV",CCTV16奥林匹克4K
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VmBEMy&tk=inWducl7RAaR
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+https://iptv.catvod.com/live.php?id=CCTV-17
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+http://111.23.208.105:9908/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
+#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+http://w.yao87.com:4022/rtp/239.76.254.49:9000
+#EXTINF:-1 group-title="CCTV",CCTV世界地理
+http://hmfs.f3322.net:3388/hls/28/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV世界地理
+http://www.qfly9236.cn:8888/rtp/239.253.43.120:5146
+
+# ----------------------
+# 地方卫视频道
+# ----------------------
+#EXTINF:-1 group-title="地方卫视",北京卫视
+http://iptv.4666888.xyz/iptv2A.php?id=101
+#EXTINF:-1 group-title="地方卫视",北京卫视
+http://27.41.245.32:801/hls/btv/index.m3u8
+#EXTINF:-1 group-title="地方卫视",北京卫视
+https://iptv.catvod.com/live.php?id=BTV-1
+
+#EXTINF:-1 group-title="地方卫视",天津卫视
+http://iptv.4666888.xyz/iptv2A.php?id=102
+#EXTINF:-1 group-title="地方卫视",天津卫视
+http://27.41.245.32:801/hls/tjtv/index.m3u8
+#EXTINF:-1 group-title="地方卫视",天津卫视
+https://iptv.catvod.com/live.php?id=TianjinTV
+
+#EXTINF:-1 group-title="地方卫视",河北卫视
+http://iptv.4666888.xyz/iptv2A.php?id=103
+#EXTINF:-1 group-title="地方卫视",河北卫视
+http://27.41.245.32:801/hls/hebei/index.m3u8
+#EXTINF:-1 group-title="地方卫视",河北卫视
+https://iptv.catvod.com/live.php?id=HebeiTV
+
+#EXTINF:-1 group-title="地方卫视",山西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=104
+#EXTINF:-1 group-title="地方卫视",山西卫视
+http://27.41.245.32:801/hls/shanxi/index.m3u8
+#EXTINF:-1 group-title="地方卫视",山西卫视
+https://iptv.catvod.com/live.php?id=ShanxiTV
+
+#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+http://iptv.4666888.xyz/iptv2A.php?id=105
+#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+http://27.41.245.32:801/hls/nmg/index.m3u8
+#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+https://iptv.catvod.com/live.php?id=NMGTV
+
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
+http://iptv.4666888.xyz/iptv2A.php?id=106
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
+http://27.41.245.32:801/hls/liaoning/index.m3u8
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
+https://iptv.catvod.com/live.php?id=LiaoningTV
+
+#EXTINF:-1 group-title="地方卫视",吉林卫视
+http://iptv.4666888.xyz/iptv2A.php?id=107
+#EXTINF:-1 group-title="地方卫视",吉林卫视
+http://27.41.245.32:801/hls/jilin/index.m3u8
+#EXTINF:-1 group-title="地方卫视",吉林卫视
+https://iptv.catvod.com/live.php?id=JilinTV
+
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=108
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+http://27.41.245.32:801/hls/hlj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+https://iptv.catvod.com/live.php?id=HLJTV
+
+#EXTINF:-1 group-title="地方卫视",上海东方卫视
+http://iptv.4666888.xyz/iptv2A.php?id=109
+#EXTINF:-1 group-title="地方卫视",上海东方卫视
+http://27.41.245.32:801/hls/dragon/index.m3u8
+#EXTINF:-1 group-title="地方卫视",上海东方卫视
+https://iptv.catvod.com/live.php?id=DragonTV
+
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=110
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+http://27.41.245.32:801/hls/js/index.m3u8
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+https://iptv.catvod.com/live.php?id=JSTV
+
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=111
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+http://27.41.245.32:801/hls/zj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+https://iptv.catvod.com/live.php?id=ZJTV
+
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+http://iptv.4666888.xyz/iptv2A.php?id=112
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+http://27.41.245.32:801/hls/ah/index.m3u8
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+https://iptv.catvod.com/live.php?id=AHTV
+
+#EXTINF:-1 group-title="地方卫视",福建东南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=113
+#EXTINF:-1 group-title="地方卫视",福建东南卫视
+http://27.41.245.32:801/hls/fj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",福建东南卫视
+https://iptv.catvod.com/live.php?id=FJTV
+
+#EXTINF:-1 group-title="地方卫视",江西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=114
+#EXTINF:-1 group-title="地方卫视",江西卫视
+http://27.41.245.32:801/hls/jx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",江西卫视
+https://iptv.catvod.com/live.php?id=JXTV
+
+#EXTINF:-1 group-title="地方卫视",山东卫视
+http://iptv.4666888.xyz/iptv2A.php?id=115
+#EXTINF:-1 group-title="地方卫视",山东卫视
+http://27.41.245.32:801/hls/sd/index.m3u8
+#EXTINF:-1 group-title="地方卫视",山东卫视
+https://iptv.catvod.com/live.php?id=SDTV
+
+#EXTINF:-1 group-title="地方卫视",河南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=116
+#EXTINF:-1 group-title="地方卫视",河南卫视
+http://27.41.245.32:801/hls/henan/index.m3u8
+#EXTINF:-1 group-title="地方卫视",河南卫视
+https://iptv.catvod.com/live.php?id=HNTV
+
+#EXTINF:-1 group-title="地方卫视",湖北卫视
+http://iptv.4666888.xyz/iptv2A.php?id=117
+#EXTINF:-1 group-title="地方卫视",湖北卫视
+http://27.41.245.32:801/hls/hb/index.m3u8
+#EXTINF:-1 group-title="地方卫视",湖北卫视
+https://iptv.catvod.com/live.php?id=HubeiTV
+
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=118
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+http://27.41.245.32:801/hls/hn/index.m3u8
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+https://iptv.catvod.com/live.php?id=HunanTV
+
+#EXTINF:-1 group-title="地方卫视",广东卫视
+http://iptv.4666888.xyz/iptv2A.php?id=119
+#EXTINF:-1 group-title="地方卫视",广东卫视
+http://27.41.245.32:801/hls/gd/index.m3u8
+#EXTINF:-1 group-title="地方卫视",广东卫视
+https://iptv.catvod.com/live.php?id=GDTV
+
+#EXTINF:-1 group-title="地方卫视",广西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=120
+#EXTINF:-1 group-title="地方卫视",广西卫视
+http://27.41.245.32:801/hls/gx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",广西卫视
+https://iptv.catvod.com/live.php?id=GXTV
+
+#EXTINF:-1 group-title="地方卫视",海南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=121
+#EXTINF:-1 group-title="地方卫视",海南卫视
+http://27.41.245.32:801/hls/hi/index.m3u8
+#EXTINF:-1 group-title="地方卫视",海南卫视
+https://iptv.catvod.com/live.php?id=HainanTV
+
+#EXTINF:-1 group-title="地方卫视",重庆卫视
+http://iptv.4666888.xyz/iptv2A.php?id=122
+#EXTINF:-1 group-title="地方卫视",重庆卫视
+http://27.41.245.32:801/hls/cq/index.m3u8
+#EXTINF:-1 group-title="地方卫视",重庆卫视
+https://iptv.catvod.com/live.php?id=ChongqingTV
+
+#EXTINF:-1 group-title="地方卫视",四川卫视
+http://iptv.4666888.xyz/iptv2A.php?id=123
+#EXTINF:-1 group-title="地方卫视",四川卫视
+http://27.41.245.32:801/hls/sc/index.m3u8
+#EXTINF:-1 group-title="地方卫视",四川卫视
+https://iptv.catvod.com/live.php?id=SichuanTV
+
+#EXTINF:-1 group-title="地方卫视",贵州卫视
+http://iptv.4666888.xyz/iptv2A.php?id=124
+#EXTINF:-1 group-title="地方卫视",贵州卫视
+http://27.41.245.32:801/hls/gz/index.m3u8
+#EXTINF:-1 group-title="地方卫视",贵州卫视
+https://iptv.catvod.com/live.php?id=GuizhouTV
+
+#EXTINF:-1 group-title="地方卫视",云南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=125
+#EXTINF:-1 group-title="地方卫视",云南卫视
+http://27.41.245.32:801/hls/yn/index.m3u8
+#EXTINF:-1 group-title="地方卫视",云南卫视
+https://iptv.catvod.com/live.php?id=YunnanTV
+
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=126
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+http://27.41.245.32:801/hls/xz/index.m3u8
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+https://iptv.catvod.com/live.php?id=XizangTV
+
+#EXTINF:-1 group-title="地方卫视",陕西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=127
+#EXTINF:-1 group-title="地方卫视",陕西卫视
+http://27.41.245.32:801/hls/sx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",陕西卫视
+https://iptv.catvod.com/live.php?id=ShanxiTV
+
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
+http://iptv.4666888.xyz/iptv2A.php?id=128
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
+http://27.41.245.32:801/hls/gs/index.m3u8
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
+https://iptv.catvod.com/live.php?id=GansuTV
+
+#EXTINF:-1 group-title="地方卫视",青海卫视
+http://iptv.4666888.xyz/iptv2A.php?id=129
+#EXTINF:-1 group-title="地方卫视",青海卫视
+http://27.41.245.32:801/hls/qh/index.m3u8
+#EXTINF:-1 group-title="地方卫视",青海卫视
+https://iptv.catvod.com/live.php?id=QinghaiTV
+
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=130
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+http://27.41.245.32:801/hls/nx/index.m3u8
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+https://iptv.catvod.com/live.php?id=NingxiaTV
+
+#EXTINF:-1 group-title="地方卫视",新疆卫视
+http://iptv.4666888.xyz/iptv2A.php?id=131
+#EXTINF:-1 group-title="地方卫视",新疆卫视
+http://27.41.245.32:801/hls/xj/index.m3u8
+#EXTINF:-1 group-title="地方卫视",新疆卫视
+https://iptv.catvod.com/live.php?id=XinjiangTV
+
+#EXTINF:-1 group-title="地方卫视",西安电视台
+http://iptv.4666888.xyz/iptv2A.php?id=132
+#EXTINF:-1 group-title="地方卫视",西安电视台
+http://27.41.245.32:801/hls/xa/index.m3u8
+#EXTINF:-1 group-title="地方卫视",西安电视台
+https://iptv.catvod.com/live.php?id=XATV
