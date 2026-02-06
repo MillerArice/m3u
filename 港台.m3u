@@ -1,0 +1,325 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://rihou.cc:555/tv/[Pd]无线翡翠
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://rihou.cc:555/tv/[PL]无线翡4k
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://www.wmviv.com/iptv/bc2t.php?id=fct4k
+
+#EXTINF:-1 group-title="港台频道",明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 group-title="港台频道",明珠台
+http://rihou.cc:555/tv/[Pd]无线明珠
+#EXTINF:-1 group-title="港台频道",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="港台频道",明珠台
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+#EXTINF:-1 group-title="港台频道",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+#EXTINF:-1 group-title="港台频道",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+
+#EXTINF:-1 group-title="港台频道",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 group-title="港台频道",TVBJ1
+https://6.cdn.loc.cc/163189.php?id=j1
+#EXTINF:-1 group-title="港台频道",TVBJ1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="港台频道",TVBJ1
+https://6.cdn.loc.cc/163189.php?id=j1
+
+#EXTINF:-1 group-title="港台频道",TVB plus
+http://74.91.26.218:82/live/j2.m3u8
+#EXTINF:-1 group-title="港台频道",TVB plus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="港台频道",TVB plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="港台频道",TVB plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="港台频道",TVB plus
+https://cdn6.163189.xyz/163189/tvbp
+
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://cdn10.163189.xyz/163189/xinghe
+#EXTINF:-1 group-title="港台频道",TVB星河
+https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://rihou.cc:555/tv/[Pd]无线星河
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://rihou.cc:555/tv/[PL]无线星河
+#EXTINF:-1 group-title="港台频道",TVB星河
+http://r.jdshipin.com/Voac4
+
+#EXTINF:-1 group-title="港台频道",TVB无线千禧
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 group-title="港台频道",TVB无线千禧
+http://rihou.cc:555/tv/[Bx]无线千禧
+
+#EXTINF:-1 group-title="港台频道",TVB千禧经典
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="港台频道",TVB千禧经典
+http://74.91.26.218:82/live/tvbjd.m3u8
+
+#EXTINF:-1 group-title="港台频道",TVB功夫
+http://rihou.cc:555/tv/[Pd]无线功夫
+#EXTINF:-1 group-title="港台频道",TVB功夫
+https://cdn6.101.qzz.io/163189/yzwx
+#EXTINF:-1 group-title="港台频道",TVB功夫
+P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+
+#EXTINF:-1 group-title="港台频道",TVB娱乐新闻台
+https://cdn6.101.qzz.io/163189/ylxw
+#EXTINF:-1 group-title="港台频道",TVB娱乐新闻台
+http://rihou.cc:555/tv/[PL]无线娱乐
+
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://stream1.freetv.fun/45181db55db70a3fc349faf2ef2b901599a9cbc7106f2674134cac2db74b2f81.m3u8
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://cdn.163189.xyz/163189/viu
+
+#EXTINF:-1 group-title="港台频道",ViuTV6
+https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
+
+#EXTINF:-1 group-title="港台频道",RHK31
+https://live.catvod.com/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港台频道",RHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港台频道",RHK31
+http://rihou.cc:555/tv/[PL]RTHK-31
+#EXTINF:-1 group-title="港台频道",RHK31
+http://cdn.163189.xyz/163189/rthk31
+
+#EXTINF:-1 group-title="港台频道",RHK32
+https://live.catvod.com/iptv.php?id=rthk32
+#EXTINF:-1 group-title="港台频道",RHK32
+http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 group-title="港台频道",RHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="港台频道",RHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 group-title="港台频道",凤凰中文
+https://cdn6.101.qzz.io/163189/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://rihou.cc:555/tv/[Bx]凤凰中文
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://rihou.cc:555/tv/[PL]凤凰中文
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://rihou.cc:555/tv/[PL]凤凰资讯
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+http://rihou.cc:555/tv/[Bx]凤凰香港
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+http://rihou.cc:555/tv/[PL]凤凰香港
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+http://r.jdshipin.com/yDoTN
+
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://rihou.cc:555/tv/[Mt]Now新闻
+#EXTINF:-1 group-title="港台频道",Now新闻台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://rihou.cc:555/tv/[Cx]Now新闻
+#EXTINF:-1 group-title="港台频道",Now新闻台
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 group-title="港台频道",Now财经
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 group-title="港台频道",Now财经
+http://rihou.cc:555/tv/[Mt]Now财经
+#EXTINF:-1 group-title="港台频道",Now直播
+https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
+#EXTINF:-1 group-title="港台频道",Now直播
+https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
+#EXTINF:-1 group-title="港台频道",Now直播
+http://rihou.cc:555/tv/[Mt]Now直播
+#EXTINF:-1 group-title="港台频道",Now体育
+http://rihou.cc:555/tv/[Mt]Now体育
+
+#EXTINF:-1 group-title="港台频道",镜新聞
+https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+#EXTINF:-1 group-title="港台频道",镜新聞
+http://rihou.cc:555/tv/[Hk]闽镜新闻
+
+#EXTINF:-1 group-title="港台频道",中天新聞
+https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+#EXTINF:-1 group-title="港台频道",中天新聞
+http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="港台频道",中天新聞
+http://free.cnlive.club/channel/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
+#EXTINF:-1 group-title="港台频道",中天新聞
+http://rihou.cc:555/tv/[Hk]%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
+
+#EXTINF:-1 group-title="港台频道",CTS華視新聞资讯
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="港台频道",CTS華視新聞资讯
+http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="港台频道",中視新聞
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="港台频道",中視新聞
+http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 group-title="港台频道",中視新聞
+http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
+
+#EXTINF:-1 group-title="港台频道",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="港台频道",台视新闻
+https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
+
+#EXTINF:-1 group-title="港台频道",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+
+#EXTINF:-1 group-title="港台频道",東森新聞台
+http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+#EXTINF:-1 group-title="港台频道",東森新聞台
+http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="港台频道",東森新聞台
+https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
+
+#EXTINF:-1 group-title="港台频道",民視新聞台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="港台频道",民視新聞台
+https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
+#EXTINF:-1 group-title="港台频道",民視新聞台
+http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
+
+#EXTINF:-1 group-title="港台频道",年代新聞
+http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
+
+#EXTINF:-1 group-title="港台频道",非凡新聞
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 group-title="港台频道",非凡新聞
+rtmp://f13h.mine.nu/sat/tv581
+
+#EXTINF:-1 group-title="港台频道",寰宇新聞台
+http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="港台频道",寰宇新聞台
+https://stream1.freetv.fun/e7076724f6f4ec080e7f1a9c5cac04dd03cdf2a7684892d4415c329245441c95.m3u8
+#EXTINF:-1 group-title="港台频道",寰宇新聞台
+https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
+#EXTINF:-1 group-title="港台频道",寰宇新聞台湾台
+https://stream1.freetv.fun/6f86b785e4d3724074dfdd10aa123fa6d5e9fcff5baf7c90567bc77446f85c6f.m3u8
+
+#EXTINF:-1 group-title="港台频道",TVBS新聞台
+http://iptv.4666888.xyz/iptv2A.php?id=43
+
+#EXTINF:-1 group-title="港台频道",三立台湾台
+http://23.128.116.71:5589/live.php?id=sanlitaiwan&h=23.128.116.71&p=22364&token=1768656088.86691cca94504da575d8df777cf38454e46d310d063477dfb6dc26c93a6a248f
+#EXTINF:-1 group-title="港台频道",三立综合台
+http://23.128.116.71:5589/live.php?id=sanlizhonghe&h=23.128.116.71&p=22364&token=1768656088.492115de19636f0cd4cf03421832bbed5f62da67f42781bc53be1a0faaf20858
+#EXTINF:-1 group-title="港台频道",三立都会台
+http://23.128.116.71:5589/live.php?id=sanlidouhui_twn&h=23.128.116.71&p=22364&token=1768656088.71792c6eb5cad5cf0b18fea078d4b239afcebabadce35bd9315d491180a5e404
+#EXTINF:-1 group-title="港台频道",三立戏剧台
+http://23.128.116.71:5589/live.php?id=sanlixiju_twn&h=23.128.116.71&p=22364&token=1768656088.9fbb23a20a7c3a7360e8bad0e362e55915cf9ff0026941769f8a92f662dfcf70
+
+#EXTINF:-1 group-title="港台频道",TVBS精采台
+http://iptv.4666888.xyz/iptv2A.php?id=47
+
+#EXTINF:-1 group-title="港台频道",好消息
+http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
+#EXTINF:-1 group-title="港台频道",好消息2台
+http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="港台频道",緯來精彩
+https://stream1.freetv.fun/409fbf8e0ec33500b4d76956cca00af9fddacac6dd2f8822f464b089fb583a6b.m3u8
+#EXTINF:-1 group-title="港台频道",緯來綜合
+https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
+
+#EXTINF:-1 group-title="港台频道",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 group-title="港台频道",龙华经典
+http://rihou.cc:555/tv/[Pd]龙华经典
+#EXTINF:-1 group-title="港台频道",龙华偶像
+https://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 group-title="港台频道",龙华偶像
+http://rihou.cc:555/tv/[Pd]龙华偶像
+#EXTINF:-1 group-title="港台频道",龙华偶像
+http://23.128.116.71:5589/live.php?id=lunghuaidol_twn&h=23.128.116.71&p=22364&token=1768656088.0a9d5f021d7e75b02ff4fc1935240e3d1b68715c25ab4bae884fd671c63d90ac
+#EXTINF:-1 group-title="港台频道",龙华日韩
+http://rihou.cc:555/tv/[Pd]龙华日韩
+#EXTINF:-1 group-title="港台频道",龙华日韩
+https://t.freetv.fun/live/long-hua-ri-han.m3u8
+#EXTINF:-1 group-title="港台频道",龙华日韩
+https://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+http://156.238.248.80/2099.php?id=122
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+http://rihou.cc:555/tv/[Pd]龙华戏剧
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+https://cdn8.163189.xyz/163189/lhxj
+
+#EXTINF:-1 group-title="港台频道",天映经典
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港台频道",天映经典
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+
+#EXTINF:-1 group-title="港台频道",CHU综合
+http://rihou.cc:555/tv/[Pd]CHU综合
+#EXTINF:-1 group-title="港台频道",CH5综合
+http://rihou.cc:555/tv/[Pd]CH5综合
+#EXTINF:-1 group-title="港台频道",CH8综合
+http://rihou.cc:555/tv/[Pd]CH8综合
+
+#EXTINF:-1 group-title="港台频道",八度空间
+http://rihou.cc:555/tv/[Pd]八度空间
+#EXTINF:-1 group-title="港台频道",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1 group-title="港台频道",八度空间
+https://cdn6.101.qzz.io/163189/8tv
+
+#EXTINF:-1 group-title="港台频道",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+
+#EXTINF:-1 group-title="港台频道",环球电视台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
+#EXTINF:-1 group-title="港台频道",澳视澳门
+https://cdn6.101.qzz.io/163189/asam
+#EXTINF:-1 group-title="港台频道",澳视澳门
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 group-title="港台频道",澳视澳门
+http://r.jdshipin.com/n2YZI
+#EXTINF:-1 group-title="港台频道",澳视Macau
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="港台频道",澳视Macau
+https://cdn6.101.qzz.io/163189/as
+#EXTINF:-1 group-title="港台频道",澳视Macau
+http://r.jdshipin.com/QFhCq
+
+#EXTINF:-1 group-title="港台频道",澳门综艺
+https://cdn6.101.qzz.io/163189/amzy
+
+#EXTINF:-1 group-title="港台频道",澳门体育
+http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+#EXTINF:-1 group-title="港台频道",澳门体育
+https://cdn6.101.qzz.io/163189/amty
+
+#EXTINF:-1 group-title="港台频道",星空卫视
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
